@@ -1,7 +1,6 @@
 # Aprendizaje Supervisado (Regresion Logistica)
 Este modelo se utiliza para clasificar y predecir los datos sobre los pasajeros del Titanic y asi determinar quién sobrevivió.
 
-# Resultados del modelo de regresión logística
 # Métricas:
 # Exactitud: 80%
 de predicciones correctas
@@ -11,3 +10,5 @@ de los positivos predichos fueron correctos
 de los positivos reales fueron identificados
 # F1-score: 80%
 Promedio entre la precisión y el recall, equilibrando ambas métricas.
+
+# Resultados del modelo de regresión logística
