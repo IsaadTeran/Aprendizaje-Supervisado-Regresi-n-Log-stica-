@@ -1,5 +1,5 @@
 # Aprendizaje Supervisado (Regresion Logistica)
-Este modelo se utiliza para clasificar y predecir quién sobrevivió al naufragio del Titanic
+Este modelo se utiliza para clasificar y predecir los datos sobre los pasajeros del Titanic y asi determinar quién sobrevivió.
 
 # Resultados del modelo de regresión logística
 # Métricas:
